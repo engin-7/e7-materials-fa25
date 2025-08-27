@@ -1,90 +1,100 @@
-Student Initials,Major 1,Major 2,,Terms
-G. A.,Civil Engineering BS,,,7
-W. W.,Economics BA,Molecular & Cell Biology BA,,8
-L. A.,Civil Engineering BS,,,6
-S. N.,Chemistry BS,,,5
-K. A.,Mechanical Engineering BS,,,5
-L. S.,Mechanical Engineering BS,,,7
-L. B.,Energy Engineering BS,,,7
-G. K.,Letters & Sci Undeclared UG,,,7
-P. H.,Engineering Undeclared UG,,,4
-S. A.,Civil Engineering BS,,,4
-B. S.,Civil Engineering BS,Letters & Sci Undeclared UG,,5
-F. M.,Chemical Engineering BS,,,7
-R. A.,Civil Engineering BS,,,5
-R. L.,Aerospace Engineering BS,,,5
-L. A.,Civil Engineering BS,,,5
-A. F.,Civil Engineering BS,,,5
-S. E.,Molecular Environ Biology BS,,,5
-C. Y.,Aerospace Engineering BS,,,5
-B. M.,Aerospace Engineering BS,,,5
-A. L.,Civil Engineering BS,,,5
-D. R.,Civil Engineering BS,,,5
-H. C.,Civil Engineering BS,,,5
-B. T.,Aerospace Engineering BS,,,5
-B. M.,Aerospace Engineering BS,,,5
-P. J.,Civil Engineering BS,,,5
-U. A.,Aerospace Engineering BS,,,5
-K. N.,Aerospace Engineering BS,,,5
-A. J.,Civil Engineering BS,,,5
-U. D.,Aerospace Engineering BS,,,5
-L. J.,Civil Engineering BS,,,5
-K. A.,Aerospace Engineering BS,,,5
-B. C.,Civil Engineering BS,,,5
-S. S.,Civil Engineering BS,,,5
-S. A.,Civil Engineering BS,,,5
-L. W.,Aerospace Engineering BS,,,5
-K. A.,Civil Engineering BS,,,5
-K. R.,Aerospace Engineering BS,,,5
-B. D.,Civil Engineering BS,,,5
-W. L.,Civil Engineering BS,,,5
-G. A.,Civil Engineering BS,,,5
-K. J.,Aerospace Engineering BS,,,5
-A. I.,Molecular & Cell Biology BA,,,5
-D. Z.,Civil Engineering BS,Letters & Sci Undeclared UG,,5
-S. B.,Civil Engineering BS,History BA,,5
-P. L.,Music BA,,,5
-S. J.,Public Health BA,,,5
-D. D.,Civil Engineering BS,,,8
-C. C.,Physics BA,,,8
-L. A.,Civil Engineering BS,,,8
-K. H.,Data Science BA,,,8
-V. L.,Civil Engineering BS,,,3
-R. M.,Civil Engineering BS,,,3
-M. S.,Civil Engineering BS,,,3
-M. M.,Civil Engineering BS,,,3
-G. E.,Civil Engineering BS,,,3
-R. J.,Civil Engineering BS,,,3
-G. E.,Civil Engineering BS,,,3
-R. C.,Civil Engineering BS,,,3
-H. B.,Civil Engineering BS,,,3
-B. P.,Civil Engineering BS,,,3
-F. A.,Civil Engineering BS,,,3
-A. Z.,Aerospace Engineering BS,,,3
-L. E.,Civil Engineering BS,,,3
-S. N.,Civil Engineering BS,,,3
-Q. N.,Civil Engineering BS,,,3
-C. L.,Civil Engineering BS,,,3
-L. R.,Civil Engineering BS,,,3
-Q. J.,Civil Engineering BS,,,3
-K. E.,Civil Engineering BS,,,3
-G. S.,Civil Engineering BS,,,3
-R. A.,Civil Engineering BS,,,3
-V. J.,Civil Engineering BS,,,3
-W. S.,Civil Engineering BS,,,3
-Y. W.,Civil Engineering BS,,,3
-L. E.,Civil Engineering BS,,,3
-J. J.,Civil Engineering BS,,,7
-S. M.,Civil Engineering BS,,,7
-L. J.,Civil Engineering BS,,,7
-S. J.,Civil Engineering BS,,,7
-C. R.,Energy Engineering BS,,,7
-R. D.,Civil Engineering BS,,,3
-N. J.,Civil Engineering BS,,,3
-L. J.,Civil Engineering BS,,,3
-M. T.,Aerospace Engineering BS,,,3
-B. J.,Civil Engineering BS,,,3
-C. M.,Civil Engineering BS,,,3
-A. H.,Civil Engineering BS,,,3
-A. H.,Civil Engineering BS,,,3
-A. R.,Civil Engineering BS,,,3
+Number,Major 1,Major 2,Terms
+1,Data Science BA,Economics BA,8
+2,Economics BA,,7
+3,Political Economy BA,,8
+4,Letters & Sci Undeclared UG,,8
+5,Letters & Sci Undeclared UG,,8
+6,Civil Engineering BS,,5
+7,Environmental Engin Sci  BS,,7
+8,Civil Engineering BS,,7
+9,Energy Engineering BS,,7
+10,Atmospheric Science BA,Environmental Sciences BS,7
+11,Conserv & Resource Stds BS,,7
+12,Environ Econ & Policy BS,,7
+13,Energy Engineering BS,,7
+14,Aerospace Engineering BS,,7
+15,Economics BA,,6
+16,Molecular & Cell Biology BA,,7
+17,Letters & Sci Undeclared UG,Urban Studies BA,7
+18,Physics BA,,7
+19,Letters & Sci Undeclared UG,,3
+20,Civil Engineering BS,,3
+21,Geography BA,Sustainable Environ Dsgn BA,5
+22,Chemical Engineering BS,,5
+23,Aerospace Engineering BS,,5
+24,Business Administration BS,Civil Engineering BS,5
+25,Civil Engineering BS,,5
+26,Civil Engineering BS,,5
+27,Aerospace Engineering BS,,5
+28,Global Studies BA,,5
+29,Aerospace Engineering BS,,5
+30,Civil Engineering BS,,5
+31,Civil Engineering BS,,5
+32,Environ Econ & Policy BS,Sustainable Environ Dsgn BA,5
+33,Civil Engineering BS,,5
+34,Aerospace Engineering BS,,5
+35,Aerospace Engineering BS,,5
+36,Letters & Sci Undeclared UG,,5
+37,Astrophysics BA,,5
+38,Civil Engineering BS,,5
+39,Engineering Undeclared UG,,3
+40,Aerospace Engineering BS,,5
+41,Civil Engineering BS,,5
+42,Letters & Sci Undeclared UG,,5
+43,Letters & Sci Undeclared UG,,5
+44,Civil Engineering BS,,5
+45,Energy Engineering BS,,5
+46,Civil Engineering BS,,5
+47,Environ Econ & Policy BS,,5
+48,Letters & Sci Undeclared UG,,5
+49,Letters & Sci Undeclared UG,,5
+50,Energy Engineering BS,Environ Econ & Policy BS,5
+51,Letters & Sci Undeclared UG,,5
+52,Letters & Sci Undeclared UG,,5
+53,Architecture BA,,3
+54,Civil Engineering BS,,8
+55,Business Administration BS,,8
+56,Economics BA,,8
+57,Economics BA,,8
+58,Energy Engineering BS,,5
+59,Civil Engineering BS,,5
+60,Economics BA,,7
+61,Civil Engineering BS,,3
+62,Civil Engineering BS,,3
+63,Civil Engineering BS,,3
+64,Civil Engineering BS,,3
+65,Engineering Undeclared UG,,3
+66,Environmental Sciences BS,,3
+67,Civil Engineering BS,,3
+68,Civil Engineering BS,,3
+69,Civil Engineering BS,,3
+70,Civil Engineering BS,,3
+71,Civil Engineering BS,,3
+72,Civil Engineering BS,,3
+73,Civil Engineering BS,,3
+74,Civil Engineering BS,,3
+75,Civil Engineering BS,,3
+76,Eng Math & Statistics BS,,3
+77,Civil Engineering BS,,3
+78,Civil Engineering BS,,3
+79,Civil Engineering BS,,3
+80,Civil Engineering BS,,3
+81,Civil Engineering BS,,3
+82,Civil Engineering BS,,3
+83,Society and Environment BS,,3
+84,Civil Engineering BS,,3
+85,Civil Engineering BS,,3
+86,Chemical Biology BS,,3
+87,Civil Engineering BS,,3
+88,Civil Engineering BS,,3
+89,Civil Engineering BS,,3
+90,Civil Engineering BS,,7
+91,Aerospace Engineering BS,,7
+92,Aerospace Engineering BS,,7
+93,Economics BA,,7
+94,Civil Engineering BS,,7
+95,Energy Engineering BS,,7
+96,Letters & Sci Undeclared UG,,1
+97,Civil Engineering BS,,1
+98,Letters & Sci Undeclared UG,,1
+99,Aerospace Engineering BS,,5
